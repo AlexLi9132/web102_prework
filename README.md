@@ -35,7 +35,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One of the challenges I faced was learning how to use the reduce function. Although I had prior coding experience, getting the handle of JavaScript logic took a bit of time from me, and I referenced documentation for help.
 
 ## License
 
