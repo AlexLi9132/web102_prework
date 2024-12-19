@@ -24,9 +24,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/2cUGkGU' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Watch the video walkthrough](https://i.imgur.com/7O3DHdw.mp4)
 
-GIF created with Snipping Tool
+Created with Snipping Tool
 
 ## Notes
 
